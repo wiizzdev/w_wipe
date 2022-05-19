@@ -17,6 +17,6 @@ AddEventHandler("wipe:wipe", function(idjoueur, nomjoueur)
         }, function()
     end)
     --[[
-        copier-coller les lignes 14 à 18 pour pouvoir wipe d'autres tables sql
+        copier-coller les lignes 14 à 18 pour pouvoir wipe d'autres tables de la bdd (ne pas oublier de remplacer users par le nom de la table)
     ]]--
 end)
