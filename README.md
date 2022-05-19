@@ -3,7 +3,7 @@ Menu Wipe / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : bientôt
+#### Preview : https://youtu.be/NQRA3tQBN3I
 
 - Configuration facile
 - Commande : /wipe
